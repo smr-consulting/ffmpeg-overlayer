@@ -4,6 +4,6 @@
       {"user.email":"reynoldssm@gmail.com","user.name":"reynoldssm"}],
   
     // Interval for querying of git config in ms
-    "git-autoconfig.queryInterval": 5000,
+    "git-autoconfig.queryInterval": 5000
   
 }
