@@ -1,7 +1,7 @@
 {
     // List of local git configs in format [{'user.email': 'Marvolo@Riddle.Tom', 'user.name': 'Tom Marvolo Riddle'}]
   "git-autoconfig.configList": [
-      {"user.email":'reynoldssm@gmail.com',"user.name":'user.name':'reynoldssm'}]
+      {"user.email":reynoldssm@gmail.com,"user.name":reynoldssm}]
   
     // Interval for querying of git config in ms
     "git-autoconfig.queryInterval": 5000,
