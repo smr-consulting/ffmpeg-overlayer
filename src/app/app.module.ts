@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { SetVidElementsComponent } from './set-vid-elements/set-vid-elements.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SetVidElementsComponent
   ],
   imports: [
     BrowserModule
